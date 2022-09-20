@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teresa Hares Portfolio</title>
+</head>
+<body>
+
+    <main> 
+    <h1 style="font-family:verdana;">TERESA HARES</h1>
+    <h2 style="color:blue;">Welcome to my Portfolio</h2>
+
+    <h3 style="font-family:verdana;"></h3style>I am an Artist from South Wales currently living in Bath</h3>
+    <h4>I work in various mediums but specialise in acrylic paint and decoupage</h4>
+    
+    <p>Originally from South Wales, I came to Bath to study at Bath Spa University where I began a Creative Arts degree,
+        I have been a practising artist ever since and recently opened a shop selling my artwork on Glastonbury high street.
+        My speciality is very bright and vivid colours and have done a series of letters of the alphabet where I explore what those
+        letters represent
+    </p>
+
+<h5>My Work is available to buy on various products on Red Bubble</h5>
+    <a href="https:/www.redbubble.com/people/teresahares/shop">Click here to visit my Red Bubble Site</a>
+
+    <body style="background-color:rgba(21, 207, 176, 0.63);"></body>
+
+<h6 style="font-size:150%;"</h6style>I have recently begun experimenting in AI art and have created a number of images using Dalle 2 AI Open Source software
+    Here are some of my recent images
+</h6>
+
+<img src="Images/DALL·E 2022-08-11 21.40.52 - a 3d  psychedelic hare on a motorbike at a pop festival in 1960s.png" alt="Dalle 2"
+width="500" height="500">
+
+<img src="Images/Dutton Hare in a post apocalyptic world.png" alt="Dalle 2" width="500" height="500">
+<img src="images/Welsh Dragon.png" alt="Dalle 2"width="500" height="500">
+
+<Ordered and Unordered List examples>
+<ul>
+    <li>1. Motorbike</li>
+    <li>2. Post Apocalypse</li>
+    <li>3. Welsh Dragon</li>
+  </ul>
+
+
+  <ol style="list-style-type:upper-roman">
+    <li>1. Motorbike</li>
+    <li>2. Post Apocalypse</li>
+    <li>3. Welsh Dragon</li>
+  </ol>
+  
+  <ol style="list-style-type:lower-alpha">
+    <li>1. Motorbike</li>
+    <li>2. Post Apocalypse</li>
+    <li>3. Welsh Dragon</li>
+  </ol>
+
+
+<div style="border: 2px solid green ; color:red;">
+    <p>This is my division paragraph</p>
+    <h2>Hello my division</h2>
+  </div>
+
+
+<nav>
+    <a href="/html/">HTML</a> |
+    <a href="/css/">CSS</a> |
+    <a href="/js/">JavaScript</a> |
+    <a href="/python/">Python</a>
+    </nav>
+
+
+<footer>
+    <p>Author: Teresa Hares<br>
+    <a href="haresteresa@hotmail.com">haresteresa@hotmail.com</p>
+  </footer>
+ 
+</main>
+</body>
+</html>
